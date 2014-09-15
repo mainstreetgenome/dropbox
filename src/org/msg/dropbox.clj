@@ -1,4 +1,4 @@
-(ns com.msg.dropbox
+(ns org.msg.dropbox
   (:require [org.httpkit.client :as http]
             [cheshire.core :refer [parse-string]]
             [plumbing.core :refer :all]

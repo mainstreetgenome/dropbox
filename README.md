@@ -1,10 +1,11 @@
 # msg-dropbox
 
-A Clojure library designed to ... well, that part is up to you.
+A very simple and minimal dropbox library for clojure. Not stable. Do
+not use for production.
 
 ## Usage
 
-FIXME
+[msg-dropbox "0.1.0-SNAPSHOT"]
 
 ## License
 
