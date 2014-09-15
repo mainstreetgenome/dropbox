@@ -5,7 +5,7 @@ not use for production.
 
 ## Usage
 
-[msg-dropbox "0.1.0-SNAPSHOT"]
+[org.msg/dropbox "0.1.0-SNAPSHOT"]
 
 ## License
 
